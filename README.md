@@ -20,6 +20,18 @@ pKi = 9 - log10(x)
 
 ---
 
+Target Protein Sequence
+
+The amino-acid sequence and basic annotation of Rv3273 (β-carbonic anhydrase 3) from Mycobacterium tuberculosis H37Rv can be accessed from the following resources:
+
+MycoBrowser – Rv3273: https://mycobrowser.epfl.ch/genes/Rv3273
+
+UniProt – P96878: https://www.uniprot.org/uniprotkb/P96878/entry
+
+The protein sequence used in this study was obtained from these curated database resources.
+
+---
+
 ### ML-QSAR analysis
 
 The dataset contained 101 compounds from ChEMBL target CHEMBL5767. PaDELPy was used to calculate 1,444 one- and two-dimensional descriptors and 307 binary fingerprints. Constant, low-variance, and highly correlated features were removed.
